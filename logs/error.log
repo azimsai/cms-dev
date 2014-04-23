@@ -1,0 +1,250 @@
+[Thu Mar 20 18:26:55.932670 2014] [:error] [pid 8429] [client 127.0.0.1:39279] PHP Fatal error:  Call to undefined function arraay() in /var/www/cmsdev.com/application/core/MY_Controller.php on line 8
+[Thu Mar 20 18:27:40.110339 2014] [:error] [pid 8430] [client 127.0.0.1:39288] PHP Fatal error:  Call to undefined function arraay() in /var/www/cmsdev.com/application/core/MY_Controller.php on line 8
+[Thu Mar 20 18:27:40.730166 2014] [:error] [pid 8430] [client 127.0.0.1:39288] PHP Fatal error:  Call to undefined function arraay() in /var/www/cmsdev.com/application/core/MY_Controller.php on line 8
+[Thu Mar 20 18:27:40.914590 2014] [:error] [pid 8430] [client 127.0.0.1:39288] PHP Fatal error:  Call to undefined function arraay() in /var/www/cmsdev.com/application/core/MY_Controller.php on line 8
+[Thu Mar 20 18:27:41.105355 2014] [:error] [pid 8430] [client 127.0.0.1:39288] PHP Fatal error:  Call to undefined function arraay() in /var/www/cmsdev.com/application/core/MY_Controller.php on line 8
+[Sat Mar 22 17:22:09.832259 2014] [:error] [pid 5949] [client 127.0.0.1:50056] PHP Fatal error:  Call to undefined function form_open() in /var/www/cmsdev.com/application/views/welcome_message.php on line 75
+[Sat Mar 22 17:22:36.274115 2014] [:error] [pid 3782] [client 127.0.0.1:50065] PHP Fatal error:  Call to undefined function form_open() in /var/www/cmsdev.com/application/views/welcome_message.php on line 75
+[Sat Mar 22 17:22:37.360040 2014] [:error] [pid 3782] [client 127.0.0.1:50065] PHP Fatal error:  Call to undefined function form_open() in /var/www/cmsdev.com/application/views/welcome_message.php on line 75
+[Sat Mar 22 17:22:37.535239 2014] [:error] [pid 3782] [client 127.0.0.1:50065] PHP Fatal error:  Call to undefined function form_open() in /var/www/cmsdev.com/application/views/welcome_message.php on line 75
+[Mon Mar 24 00:21:51 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Mar 24 00:45:36 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Frontend_Controller' not found in /var/www/cmsdev.com/application/controllers/welcome.php on line 3
+[Mon Mar 24 00:45:36 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Mar 24 00:45:36 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Mon Mar 24 00:45:36 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Mon Mar 24 00:45:36 2014] [error] [client 127.0.0.1] PHP   3. include() /var/www/cmsdev.com/system/core/CodeIgniter.php:250
+[Mon Mar 24 00:48:19 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method MY_Controller::__constrct() in /var/www/cmsdev.com/application/libraries/Frontend_Controller.php on line 11
+[Mon Mar 24 00:48:19 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Mar 24 00:48:19 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Mon Mar 24 00:48:19 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Mon Mar 24 00:48:19 2014] [error] [client 127.0.0.1] PHP   3. Frontend_Controller->__construct() /var/www/cmsdev.com/system/core/CodeIgniter.php:308
+[Mon Mar 24 00:48:20 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method MY_Controller::__constrct() in /var/www/cmsdev.com/application/libraries/Frontend_Controller.php on line 11
+[Mon Mar 24 00:48:20 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Mar 24 00:48:20 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Mon Mar 24 00:48:20 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Mon Mar 24 00:48:20 2014] [error] [client 127.0.0.1] PHP   3. Frontend_Controller->__construct() /var/www/cmsdev.com/system/core/CodeIgniter.php:308
+[Mon Mar 24 00:50:47 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Frontend_Controller' not found in /var/www/cmsdev.com/application/controllers/welcome.php on line 3
+[Mon Mar 24 00:50:47 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Mar 24 00:50:47 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Mon Mar 24 00:50:47 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Mon Mar 24 00:50:47 2014] [error] [client 127.0.0.1] PHP   3. include() /var/www/cmsdev.com/system/core/CodeIgniter.php:250
+[Mon Mar 24 00:51:15 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method MY_Controller::__constrct() in /var/www/cmsdev.com/application/libraries/Frontend_Controller.php on line 11
+[Mon Mar 24 00:51:15 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Mar 24 00:51:15 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Mon Mar 24 00:51:15 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Mon Mar 24 00:51:15 2014] [error] [client 127.0.0.1] PHP   3. Frontend_Controller->__construct() /var/www/cmsdev.com/system/core/CodeIgniter.php:308
+[Tue Mar 25 02:06:00 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Wed Mar 26 02:25:09 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Wed Mar 26 03:10:12 2014] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare Dashboard::index() in /var/www/cmsdev.com/application/controllers/admin/dashboard.php on line 14
+[Wed Mar 26 03:10:12 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Wed Mar 26 03:10:12 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Wed Mar 26 03:10:12 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Wed Mar 26 03:11:07 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function site_url() in /var/www/cmsdev.com/application/views/_layout_main.php on line 7
+[Wed Mar 26 03:11:07 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Wed Mar 26 03:11:07 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Wed Mar 26 03:11:07 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Wed Mar 26 03:11:07 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Wed Mar 26 03:11:07 2014] [error] [client 127.0.0.1] PHP   4. Dashboard->index() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Wed Mar 26 03:11:07 2014] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /var/www/cmsdev.com/application/controllers/admin/dashboard.php:12
+[Wed Mar 26 03:11:07 2014] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /var/www/cmsdev.com/system/core/Loader.php:419
+[Wed Mar 26 03:11:07 2014] [error] [client 127.0.0.1] PHP   7. include() /var/www/cmsdev.com/system/core/Loader.php:833
+[Thu Mar 27 01:07:04 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Thu Mar 27 01:35:31 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function view() on a non-object in /var/www/cmsdev.com/application/views/admin/_layout_main.php on line 1
+[Thu Mar 27 01:35:31 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Thu Mar 27 01:35:31 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Thu Mar 27 01:35:31 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Thu Mar 27 01:35:31 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Thu Mar 27 01:35:31 2014] [error] [client 127.0.0.1] PHP   4. Dashboard->index() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Thu Mar 27 01:35:31 2014] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /var/www/cmsdev.com/application/controllers/admin/dashboard.php:12
+[Thu Mar 27 01:35:31 2014] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /var/www/cmsdev.com/system/core/Loader.php:419
+[Thu Mar 27 01:35:31 2014] [error] [client 127.0.0.1] PHP   7. include() /var/www/cmsdev.com/system/core/Loader.php:833
+[Thu Mar 27 02:43:26 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /var/www/cmsdev.com/application/models/user_m.php on line 8
+[Thu Mar 27 02:43:26 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Thu Mar 27 02:43:26 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Thu Mar 27 02:43:26 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Thu Mar 27 02:43:26 2014] [error] [client 127.0.0.1] PHP   3. User->__construct() /var/www/cmsdev.com/system/core/CodeIgniter.php:308
+[Thu Mar 27 02:43:26 2014] [error] [client 127.0.0.1] PHP   4. Admin_Controller->__construct() /var/www/cmsdev.com/application/controllers/admin/user.php:7
+[Thu Mar 27 02:43:26 2014] [error] [client 127.0.0.1] PHP   5. CI_Loader->model() /var/www/cmsdev.com/application/libraries/Admin_Controller.php:12
+[Thu Mar 27 02:51:32 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function set_rules() on a non-object in /var/www/cmsdev.com/application/controllers/admin/user.php on line 13
+[Thu Mar 27 02:51:32 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Thu Mar 27 02:51:32 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Thu Mar 27 02:51:32 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Thu Mar 27 02:51:32 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Thu Mar 27 02:51:32 2014] [error] [client 127.0.0.1] PHP   4. User->login() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Thu Mar 27 02:51:33 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function set_rules() on a non-object in /var/www/cmsdev.com/application/controllers/admin/user.php on line 13
+[Thu Mar 27 02:51:33 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Thu Mar 27 02:51:33 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Thu Mar 27 02:51:33 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Thu Mar 27 02:51:33 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Thu Mar 27 02:51:33 2014] [error] [client 127.0.0.1] PHP   4. User->login() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Sat Mar 29 02:19:53 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Mar 29 16:10:48 2014] [error] [client 127.0.0.1] PHP Fatal error:  Access level to Page_m::$_rules must be public (as in class MY_Model) in /var/www/cmsdev.com/application/models/page_m.php on line 19
+[Sat Mar 29 16:10:48 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 29 16:10:48 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Sat Mar 29 16:10:48 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Sat Mar 29 16:10:48 2014] [error] [client 127.0.0.1] PHP   3. Page->__construct() /var/www/cmsdev.com/system/core/CodeIgniter.php:308
+[Sat Mar 29 16:10:48 2014] [error] [client 127.0.0.1] PHP   4. CI_Loader->model() /var/www/cmsdev.com/application/controllers/page.php:11
+[Sat Mar 29 16:10:48 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Mar 29 16:27:10 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Mar 29 16:36:56 2014] [error] [client 127.0.0.1] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/cmsdev.com/application/models/user_m.php on line 26, referer: http://cmsdev.com/admin/user/login
+[Sat Mar 29 16:36:56 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/user/login
+[Sat Mar 29 16:36:56 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/user/login
+[Sat Mar 29 16:36:56 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/user/login
+[Sat Mar 29 16:36:56 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/user/login
+[Sat Mar 29 16:36:56 2014] [error] [client 127.0.0.1] PHP   4. User->login() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/user/login
+[Sat Mar 29 16:36:56 2014] [error] [client 127.0.0.1] PHP   5. User_m->login() /var/www/cmsdev.com/application/controllers/admin/user.php:17, referer: http://cmsdev.com/admin/user/login
+[Sat Mar 29 18:20:14 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP Fatal error:  Can't use method return value in write context in /var/www/cmsdev.com/application/views/admin/user/login.php on line 5
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP   4. User->login() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /var/www/cmsdev.com/application/controllers/admin/user.php:29
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /var/www/cmsdev.com/system/core/Loader.php:419
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP   7. include() /var/www/cmsdev.com/system/core/Loader.php:833
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP   8. CI_Loader->view() /var/www/cmsdev.com/application/views/admin/_layout_modal.php:4
+[Sat Mar 29 18:25:08 2014] [error] [client 127.0.0.1] PHP   9. CI_Loader->_ci_load() /var/www/cmsdev.com/system/core/Loader.php:419
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in /var/www/cmsdev.com/application/helpers/cms_helper.php on line 9
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP   3. User->__construct() /var/www/cmsdev.com/system/core/CodeIgniter.php:308
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP   4. Admin_Controller->__construct() /var/www/cmsdev.com/application/controllers/admin/user.php:7
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP   5. MY_Controller->__construct() /var/www/cmsdev.com/application/libraries/Admin_Controller.php:10
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP   6. CI_Controller->__construct() /var/www/cmsdev.com/application/core/MY_Controller.php:7
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP   7. CI_Loader->initialize() /var/www/cmsdev.com/system/core/Controller.php:51
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP   8. CI_Loader->_ci_autoloader() /var/www/cmsdev.com/system/core/Loader.php:152
+[Sat Mar 29 19:32:29 2014] [error] [client 127.0.0.1] PHP   9. CI_Loader->helper() /var/www/cmsdev.com/system/core/Loader.php:1154
+[Sat Mar 29 19:51:09 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Mar 29 19:51:09 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Mar 29 19:51:09 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Mar 29 19:51:27 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Mar 29 20:00:52 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}' in /var/www/cmsdev.com/application/views/admin/user/index.php on line 22, referer: http://cmsdev.com/admin/dashboard
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/dashboard
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/dashboard
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/dashboard
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/dashboard
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP   4. User->index() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/dashboard
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /var/www/cmsdev.com/application/controllers/admin/user.php:15, referer: http://cmsdev.com/admin/dashboard
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /var/www/cmsdev.com/system/core/Loader.php:419, referer: http://cmsdev.com/admin/dashboard
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP   7. include() /var/www/cmsdev.com/system/core/Loader.php:833, referer: http://cmsdev.com/admin/dashboard
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP   8. CI_Loader->view() /var/www/cmsdev.com/application/views/admin/_layout_main.php:19, referer: http://cmsdev.com/admin/dashboard
+[Sat Mar 29 23:08:40 2014] [error] [client 127.0.0.1] PHP   9. CI_Loader->_ci_load() /var/www/cmsdev.com/system/core/Loader.php:419, referer: http://cmsdev.com/admin/dashboard
+[Sun Mar 30 22:42:28 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Mar 31 00:10:49 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function get() on a non-object in /var/www/cmsdev.com/application/controllers/admin/page.php on line 14
+[Mon Mar 31 00:10:49 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Mar 31 00:10:49 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0
+[Mon Mar 31 00:10:49 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211
+[Mon Mar 31 00:10:49 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Mon Mar 31 00:10:49 2014] [error] [client 127.0.0.1] PHP   4. Page->index() /var/www/cmsdev.com/system/core/CodeIgniter.php:359
+[Mon Mar 31 00:17:11 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method Page_m::get_new() in /var/www/cmsdev.com/application/controllers/admin/page.php on line 29, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:17:11 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:17:11 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:17:11 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:17:11 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:17:11 2014] [error] [client 127.0.0.1] PHP   4. Page->edit() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:39:26 2014] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare Page_m::$_rules in /var/www/cmsdev.com/application/models/page_m.php on line 20, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:39:26 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:39:26 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:39:26 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:39:26 2014] [error] [client 127.0.0.1] PHP   3. Page->__construct() /var/www/cmsdev.com/system/core/CodeIgniter.php:308, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 00:39:26 2014] [error] [client 127.0.0.1] PHP   4. CI_Loader->model() /var/www/cmsdev.com/application/controllers/admin/page.php:9, referer: http://cmsdev.com/admin/page
+[Mon Mar 31 01:06:05 2014] [crit] [client 127.0.0.1] (13)Permission denied: /var/www/cmsdev.com/public_html/js/tinymce/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://cmsdev.com/admin/page/edit/1
+[Mon Mar 31 01:06:08 2014] [crit] [client 127.0.0.1] (13)Permission denied: /var/www/cmsdev.com/public_html/js/tinymce/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://cmsdev.com/admin/page/edit/1
+[Mon Mar 31 01:06:10 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Mar 31 01:08:54 2014] [crit] [client 127.0.0.1] (13)Permission denied: /var/www/cmsdev.com/public_html/js/tinymce/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://cmsdev.com/admin/page/edit/1
+[Mon Mar 31 01:11:19 2014] [crit] [client 127.0.0.1] (13)Permission denied: /var/www/cmsdev.com/public_html/js/tinymce/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://cmsdev.com/admin/page/edit/1
+[Mon Mar 31 01:12:22 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/js/tinymce/plugins/moxiemanager, referer: http://cmsdev.com/admin/page/edit/1
+[Sat Apr 05 01:25:11 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Thu Apr 10 23:15:31 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Thu Apr 10 23:44:07 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method Page_m::page_no_parents() in /var/www/cmsdev.com/application/controllers/admin/page.php on line 33, referer: http://cmsdev.com/admin/page
+[Thu Apr 10 23:44:07 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/page
+[Thu Apr 10 23:44:07 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/page
+[Thu Apr 10 23:44:07 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/page
+[Thu Apr 10 23:44:07 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page
+[Thu Apr 10 23:44:07 2014] [error] [client 127.0.0.1] PHP   4. Page->edit() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:25:04 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method Page::get_with_parents() in /var/www/cmsdev.com/application/controllers/admin/page.php on line 15, referer: http://cmsdev.com/admin/user
+[Fri Apr 11 00:25:04 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/user
+[Fri Apr 11 00:25:04 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/user
+[Fri Apr 11 00:25:04 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/user
+[Fri Apr 11 00:25:04 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/user
+[Fri Apr 11 00:25:04 2014] [error] [client 127.0.0.1] PHP   4. Page->index() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/user
+[Fri Apr 11 00:44:27 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Parent' not found in /var/www/cmsdev.com/application/models/page_m.php on line 26, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:27 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:27 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:27 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:27 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:27 2014] [error] [client 127.0.0.1] PHP   4. Page->delete() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:27 2014] [error] [client 127.0.0.1] PHP   5. Page_m->delete() /var/www/cmsdev.com/application/controllers/admin/page.php:55, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:40 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Parent' not found in /var/www/cmsdev.com/application/models/page_m.php on line 26, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:40 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:40 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:40 2014] [error] [client 127.0.0.1] PHP   4. Page->delete() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page
+[Fri Apr 11 00:44:40 2014] [error] [client 127.0.0.1] PHP   5. Page_m->delete() /var/www/cmsdev.com/application/controllers/admin/page.php:55, referer: http://cmsdev.com/admin/page
+[Sun Apr 13 17:19:14 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:03:42 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function dumb() in /var/www/cmsdev.com/application/views/admin/page/order_ajax.php on line 2, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:03:42 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:03:42 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:03:42 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:03:42 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:03:42 2014] [error] [client 127.0.0.1] PHP   4. Page->order_ajax() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:03:42 2014] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /var/www/cmsdev.com/application/controllers/admin/page.php:37, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:03:42 2014] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /var/www/cmsdev.com/system/core/Loader.php:419, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:03:42 2014] [error] [client 127.0.0.1] PHP   7. include() /var/www/cmsdev.com/system/core/Loader.php:833, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:13 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function dumb() in /var/www/cmsdev.com/application/views/admin/page/order_ajax.php on line 2, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:13 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:13 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:13 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:13 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:13 2014] [error] [client 127.0.0.1] PHP   4. Page->order_ajax() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:13 2014] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /var/www/cmsdev.com/application/controllers/admin/page.php:37, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:13 2014] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /var/www/cmsdev.com/system/core/Loader.php:419, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:13 2014] [error] [client 127.0.0.1] PHP   7. include() /var/www/cmsdev.com/system/core/Loader.php:833, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:13 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:04:52 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function dumb() in /var/www/cmsdev.com/application/views/admin/page/order_ajax.php on line 2, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:52 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:52 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/cmsdev.com/public_html/index.php:0, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:52 2014] [error] [client 127.0.0.1] PHP   2. require_once() /var/www/cmsdev.com/public_html/index.php:211, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:52 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:52 2014] [error] [client 127.0.0.1] PHP   4. Page->order_ajax() /var/www/cmsdev.com/system/core/CodeIgniter.php:359, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:52 2014] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /var/www/cmsdev.com/application/controllers/admin/page.php:37, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:52 2014] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /var/www/cmsdev.com/system/core/Loader.php:419, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:04:52 2014] [error] [client 127.0.0.1] PHP   7. include() /var/www/cmsdev.com/system/core/Loader.php:833, referer: http://cmsdev.com/admin/page/order
+[Sun Apr 13 22:39:16 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:17 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:17 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:17 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:17 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:18 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:18 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:19 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:19 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:19 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:20 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:20 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sun Apr 13 22:39:20 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:32:20 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:33:18 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:36:28 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:43:32 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:43:32 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:43:32 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:43:32 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:43:32 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:43:33 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:43:33 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:43:33 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:43:33 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:55:06 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:55:06 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:55:06 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Mon Apr 14 00:55:06 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Fri Apr 18 20:47:32 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Apr 19 00:20:38 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Apr 19 00:21:25 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Apr 19 00:23:13 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico
+[Sat Apr 19 00:45:54 2014] [error] [client 127.0.0.1] File does not exist: /var/www/cmsdev.com/public_html/favicon.ico

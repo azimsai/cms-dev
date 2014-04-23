@@ -1,0 +1,23 @@
+sudo gedit /etc/apache2/sites-available/cmsdev.com.conf
+
+<VirtualHost *:80>
+     ServerAdmin webmaster@cmsdev.com
+     ServerName cmsdev.com
+     ServerAlias www.cmsdev.com
+     DocumentRoot /var/www/cmsdev.com/public_html/
+     ErrorLog  /var/www/cmsdev.com/logs/error.log
+     CustomLog /var/www/cmsdev.com/logs/access.log combined
+	<Directory /var/www/cmsdev.com/public_html>
+   		 AllowOverride all
+  	</Directory>
+</VirtualHost>
+
+sudo gedit apache2.conf
+sudo a2ensite cmsdev.com
+sudo service apache2 reload
+
+rewrite
+-------
+
+sudo a2enmod rewrite && sudo service apache2 restart
+ls -l /etc/apache2/mods-available/rewrite.load
